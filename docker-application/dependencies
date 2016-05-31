@@ -1,0 +1,4 @@
+dependencies:
+application-mongo   
+new-npm-epel 
+new-aplication-deploy
